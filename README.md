@@ -1,0 +1,1 @@
+# CosmosDB-and-Synapse-Network-Settings
